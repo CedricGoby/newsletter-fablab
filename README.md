@@ -1,0 +1,3 @@
+# newsletter-fablab
+
+Cette lettre mensuelle comprend une sélection d'articles généraux ou techniques sur des thématiques "fablab" : Ordinateurs mono-carte (Arduino, Raspberry, capteurs...), électronique, impression 3D, DIY, vie des fablabs, événements...
