@@ -6,5 +6,5 @@ Vous devez vous inscrire si vous souhaitez recevoir la lettre. Pour l'inscriptio
 
 ---
 Cédric Goby - Institut National de la Recherche Agronomique  
+![](https://i.creativecommons.org/l/by/4.0/88x31.png)  
 **Cette lettre est publié sous la licence Attribution 4.0 International (CC BY 4.0)**  
-![](https://i.creativecommons.org/l/by/4.0/80x15.png)
