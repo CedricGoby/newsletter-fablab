@@ -137,5 +137,5 @@ Source : Network World Security
 
 ---
 Cédric Goby - Institut National de la Recherche Agronomique  
-**Cette lettre est publié sous la licence Attribution 4.0 International (CC BY 4.0)**  
+**Cette lettre est publiée sous la licence Attribution 4.0 International (CC BY 4.0)**  
 ![](https://i.creativecommons.org/l/by/4.0/80x15.png)
