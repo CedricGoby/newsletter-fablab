@@ -6,90 +6,69 @@ Vous devez vous inscrire si vous souhaitez recevoir la lettre. Pour l'inscriptio
 
 ## ORDINATEURS MONO-CARTE
 
-### Raspberry Pi Desktop for PC and Mac
-Debian avec Raspberry Pi Desktop est le système d'exploitation pour PC et Mac de la Fondation. Vous pouvez créer un live CD, l'utiliser dans une machine virtuelle ou même l'installer sur votre ordinateur.
-https://www.raspberrypi.org/downloads/
-Source : Raspberry Pi
+### 1er "Arduino Users Group" en France
+LABSud a créé le premier groupe officiel Arduino en France. La création d'un groupe offre une bonne visibilité au sein de la communauté Arduino.
+https://www.arduino.cc/en/aug/
+Source : Arduino
 
-### HyperPixel un écran tactile 4″ TFT 800×400 pixels pour le Raspberry Pi
-Cet écran 4 pouces de type TFT a été pensé pour le Raspberry Pi et offre une qualité d’image et un contraste intéressant pour des applications embarquées, pour la domotique…
-https://www.framboise314.fr/hyperpixel-un-ecran-tactile-4-tft-800x400-pixels-pour-le-raspberry-pi
-Source : Framboise 314
+### Mise à jour de Raspbian (en anglais)
+Au premier démarrage un assistant permet de configurer le système et de choisir les logiciels que l'on souhaite installer.
+https://www.raspberrypi.org/blog/raspbian-update-june-2018/
+Source : Raspberry Pi
 
 ## IMPRESSION 3D
 
-### EORA : son scanner 3D pour smartphone enfin disponible
-Il y a trois ans, une start-up australienne du nom de EORA dévoilait un scanner 3D d’un nouveau genre capable de numériser des objets à partir d’un simple smartphone. Financé en seulement 3 heures sur la plateforme Kickstarter, le scanner de poche EORA 3D est désormais directement disponible à l’achat.
-http://www.primante3d.com/scan-3d-eora-13072018/
-Source : primante 3D
-
-### Quelle place pour l’impression 3D dans l’enseignement supérieur?
-Selon une étude commandée par Ricoh Europe, près de neuf professionnels de l’enseignement supérieur sur dix estiment que les compétences développées en utilisant les technologies de fabrication numérique et d’impression 3D sont vitales pour les diplômés qui entrent sur le marché du travail.
-https://www.3dnatives.com/impression-3d-enseignement-superieur-16072018/
-Source : 3D Natives
-
-### Les armes imprimées en 3D désormais légales aux États-Unis
-Depuis 2013, une bataille juridique se tient aux États-Unis concernant la distribution sur internet des fichiers numérques d’armes imprimables en 3D.
-https://www.3dnatives.com/armes-imprimees-3d-14072018/
-Source : 3D Natives
-
-### Nouveau filament Tough chez MakerBot
-MakerBot a dévoilé un nouveau matériau “Tough”. Deux fois plus résistant que de l’ABS, le filament MakerBot Tough ne cèdera que face à une perceuse et pourra être utilisé pour des maquettes, des prototypes et même des objets de petite série.
-https://www.youtube.com/watch?v=3aL9dG_CTnQ
-Source : Les imprimantes 3D / MakerBot
-
-### Rencontre avec 3D.FAB : une plateforme lyonnaise spécialisée dans la bioimpression
-Née il y a plus de vingt ans déjà, la bioimpression est l’un des développements de l’industrie de l’impression 3D qui suscite le plus d’attentes. Appelé aussi bioprinting ce procédé qui permet de créer des tissus biologiques par fabrication additive promet des progrès considérables en terme de médecine individualisée et régénératrice.
-http://www.primante3d.com/3d-fab-05072018/
+### 10 imprimantes 3D métal pour imprimer sans laser
+Particulièrement dynamique depuis deux ans, le marché de l’impression 3D métal voit arriver de nouveaux procédés de moins en moins coûteux et toujours plus rapides. Une nouvelle vague d’imprimantes 3D métal vient désormais concurrencer les anciens procédés de fabrication additive métallique par fusion laser sur lit de poudre ou faisceau d’électrons.
+http://www.primante3d.com/impression-3d-metallique-22062018/
 Source : Primante 3D
 
-## DRONES
+### Une imprimante 3D d'argile
+La WASP Delta 2040 imprimerait 70 cm en 1h30, facilitant alors vos projets d’architecture ou de design
+https://www.youtube.com/watch?v=rzqlABjtFCg
+Source : WASP Team
 
-### Le drone se fait sa place dans l'entreprise
-Le drone est devenu un service ("Drone as a Service") et la data est un enjeu pour sa maîtrise dans l'entreprise.
-https://www.zdnet.fr/blogs/green-si/le-drone-se-fait-sa-place-dans-l-entreprise-39870516.htm#xtor=123456
-Source : ZDNet
+### L’Université de Newcastle imprime en 3D avec succès les premières cornées humaines
+Une équipe de chercheurs de l'Université de Newcastle révèle avoir imprimé en 3D avec succès les premières cornées humaines.
+http://www.primante3d.com/impression-3d-cornee-31052018/
+Source : Primante 3D
 
 ## IoT
 
-### Sécurité des objets connectés : un "trou béant" dans la loi
-La nouvelle loi sur la cybersécurité de l'UE n'imposera pas de certifications pour les produits IoT, et c'est un sujet de mécontentement pour les associations de défense des consommateurs.
-https://www.zdnet.fr/actualites/securite-des-objets-connectes-un-trou-beant-dans-la-loi-39871033.htm#xtor=123456
-Source : ZDNet
-
-### Les cinq vecteurs de progrès de l’IoT
-De plus en plus d’objets connectés font leur apparition sur le marché dans le domaine de l’agriculture mais leur adoption reste encore compliquée. La question qui peut se poser est : Comment les entreprises peuvent-elles tirer le meilleur parti de l’ Internet des objets (IoT)?
-https://www.agrotic.org/les-actualites/les-cinq-vecteurs-de-progres-de-liot/
-Source : AgroTIC
-
-### Opération Voucher IoT
-Cette opération vise à accompagner les start-ups et PME créatrices d’objets connectés lors de la phase de première industrialisation de leurs produits
-https://www.entreprises.gouv.fr/politique-et-enjeux/operation-voucher-iot?utm_source=toutes-actus&utm_medium=rss1&utm_campaign=RSS
-Source : DGE
-
-## FABLABS
-
-### "Makers. Enquête sur les laboratoires du changement social", compte rendu de lecture
-Depuis l’aube des temps et par-delà les frontières une seule chose demeure stable : un intérêt inquiet des hommes pour le changement. Les différentes postures à l’égard de l’avenir se déclinent en autant de pratiques et d’institutions.
-http://www.fablab.fr/makers-enquete-sur-les-laboratoires-du-changement-social-isabelle-berrebi-hoffmann-marie-christine-bureau-michel-lallemant-paris-paris-seuil-2018-352-p-compte-rendu-de-lecture/
-Source : RFFLabs
+### A Montpellier, des étudiants cobayes pour tester les limites de l’habitat connecté
+Douze laboratoires du CNRS et de l’université de Montpellier inauguraient mardi 26 juin un appartement connecté pour y étudier à la rentrée les comportements d’étudiants volontaires. La vie privée est au cœur de l’expérience.
+https://www.lemonde.fr/pixels/article/2018/06/26/a-montpellier-des-etudiants-cobayes-pour-tester-les-limites-de-l-habitat-connecte_5321481_4408996.html
+Source : Le Monde
 
 ## TUTO
 
-### Déployer une passerelle LoRaWAN pour The Things Network
-Installation et déploiement d'une passerelle LoRAWAN pour The Things Network à base du Kit LoRaWAN SeeedStudio avec Raspberry Pi 3. Un excellent tuto puisque rédigé par votre serviteur ;-)
-https://wikifab.org/wiki/D%C3%A9ployer_une_passerelle_LoRaWAN_pour_The_Things_Network
-Source : Wikifab
+### Transformer un vieux PC portable en console VNC sous Raspbian Stretch
+Pour gérer les Raspberry Pi sans écran ni clavier (headless), VNCviewer est une des solutions. Disposant d’un “vieux” Toshiba Satellite T110, j’ai choisi de l’utiliser pour remplir cette tâche et de lui redonner une seconde jeunesse avec Raspbian PC.
+https://www.framboise314.fr/transformer-un-vieux-pc-portable-en-console-vnc-sous-raspbian-stretch/
+Source : Framboise 314
 
-### Bloquer les pubs sur tout un réseau avec Pi-hole et Raspberry Pi (en anglais)
-Pi-hole est un bloqueur de publicité pour des réseaux locaux. Plutôt que d'installer un bloqueur de publicité sur chaque appareil et chaque navigateur, vous pouvez installer Pi-hole une fois sur votre réseau et il protégera tous vos appareils.
-https://www.raspberrypi.org/blog/pi-hole-raspberry-pi/
-Source : Raspberry Pi
+## EN ANGLAIS
 
-### Système hydroponique intelligent avec Arduino Mega (en anglais)
-Si vous aimez l'électronique autant que les plantes, quel meilleur moyen de combiner les deux avec un système hydroponique intelligent ?
-https://blog.arduino.cc/2018/07/23/smart-hydroponic-assembly-made-with-arduino-mega/
-Source : Arduino
+### A Flexible Arduino Prototype
+We recently visited NextFlex, the flexible electronics manufacturing institute in Silicon Valley, where they developed a flexible prototype based on the Arduino Mini. Their mission is to make flexible electronics mainstream, opening up all kinds of new applications.
+https://blog.arduino.cc/2018/06/05/a-flexible-arduino-prototype/
+Source : Arduino blog
+
+## AGENDA
+
+### FAB14 - La 14ème Conférence Internationale des Fab Labs
+16 au 20 Juillet à Toulouse
+https://artilect.fr/fab14/
+
+### FabFestival - Ouvert au public dans le prolongement du FAB14
+21 et 22 juillet à Toulouse
+https://artilect.fr/fab14/
+
+AGENDA LABSud
+
+### Initiation à la brodeuse numérique
+Juil 3 @ 17 h 00 min – 19 h 00 min
+https://labsud.org/agenda/
 
 ---
 Cédric Goby - Institut National de la Recherche Agronomique  
