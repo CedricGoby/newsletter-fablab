@@ -4,7 +4,7 @@ Cette lettre mensuelle comprend une sélection d'articles généraux ou techniqu
 Vous devez vous inscrire si vous souhaitez recevoir la lettre. Pour l'inscription (ou la désinscription) et la consultation des archives c'est ici : https://groupes.renater.fr/sympa/arc/fablab  
 Vous pouvez également retrouver toutes les lettres sur GitLab https://gitlab.com/CedricGoby/newsletter-fablab
 
-## Ordinateurs mono-cartes
+## ORDINATEURS MONO-CARTES
 ### Banc d’essai : Snips – Reconnaissance vocale pour le Raspberry Pi
 Si vous craignez un effet « Big Brother », vous serez satisfait(e) de savoir qu'il existe des alternatives, comme Snips – logiciel de reconnaissance vocale fonctionnant intégralement hors connexion, qui veille à ce que vos données restent confinées dans les limites de votre réseau domestique. Il ne nécessite ni connexion Internet permanente, ni batteries d’ordinateurs pour assurer la reconnaissance vocale.
 https://www.elektormagazine.fr/news/banc-d-essai-snips-reconnaissance-vocale-pour-le-raspberry-pi
@@ -15,7 +15,7 @@ Dans Raspberry Pi, le Pi c’est pour Python. Python est le langage “par défa
 https://www.framboise314.fr/livre-python-pour-le-raspberry-pi-paru-aux-editions-eni
 Source : Framboise 314
 
-## Impression 3D
+## IMPRESSION 3D
 ### Les évènements de la fabrication additive et de l’impression 3D à ne pas manquer
 Tous les ans dans le monde, utilisateurs et acteurs de la fabrication additive et de l’impression 3D se retrouvent lors d’évènements dédiés, que ce soit des salons, conférences ou maker faire.
 https://www.3dnatives.com/evenements-impression-3d-02042019/
@@ -36,7 +36,7 @@ Les premières imprimantes 3D naissent à la fin des années 1980 de l’imagina
 https://www.lefildentaire.com/articles/clinique/esthetique/imprimantes-3d-application-au-cabinet-dentaire/
 Source : Le Fil Dentaire
 
-## Drones
+## DRONES
 ### Un guide pour l'inspection par drones
 Le guide produit par la CIRIA vise à définir les bonnes pratiques dans le cadre de l'emploi des drones, et ce en respect de la réglementation. Il met ainsi en œuvre des cas pratiques où les drones ont démontré leur efficacité et se penche sur la façon dont les données collectées peuvent être analysées et exploitées.
 http://www.apps-drones.com/un-guide-pour-l-inspection-par-drones-122533
@@ -58,13 +58,13 @@ Le langage C est le plus utilisé par les développeurs pour les objets connect�
 https://www.silicon.fr/iot-le-top-4-langages-programmation-239005.html
 Source : Silicon
 
-## Fablabs
+## FABLABS
 ### FabLab Festival 2019 à Toulouse
 Artilect, le FabLab de Toulouse organise FabLab Festival du 23 au 26 mai prochains.
 http://www.fablab.fr/retrouvez-nous-a-toulouse-lors-de-fablab-festival-2019/
 Source : RFFLabs
 
-## Tutos
+## TUTOS
 ### Comment installer Jeedom, la solution domotique Open Source, sur un Raspberry Pi ?
 Jeedom constitue la solution domotique open source de référence ! Conçu par une startup française, ce logiciel permet en effet de gérer votre installation domotique à moindre coût puisqu'il est libre et gratuit, pour peu que vous optiez pour une installation "do it yourself".
 https://www.clubic.com/raspberry-pi/article-854042-1-installation-jeedom-raspberry-pi.html
@@ -80,7 +80,7 @@ Bruno a construit entièrement un poulailler connecté. Pour simplifier la gesti
 https://www.framboise314.fr/un-poulailler-connecte-avec-un-raspberry-pi
 Source : Framboise 314
 
-## Formations
+## FORMATIONS
 ### Technicien supérieur en fabrication additive
 Date de la prochaine formation : Balma - du   06/05/2019  au   15/01/2020
 https://www.afpa.fr/formation-professionnalisante/technicien-superieur-en-fabrication-additive
